@@ -1,6 +1,6 @@
 # Stocks
 
-* [101: Stocks Versus Other Investments](101.md)
+* [101: 股票与其他投资](101.md)
 * [102: The Magic of Compounding](102.md)
 * [103: Investing for the Long Run](103.md)
 * [104: What Matters and What Doesn't](104.md)
