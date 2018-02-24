@@ -1,4 +1,4 @@
-# Stocks
+# 股票
 
 * [101: 股票与其他投资](101.md)
 * [102: The Magic of Compounding](102.md)
