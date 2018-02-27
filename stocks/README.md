@@ -1,10 +1,10 @@
 # 股票
 
 * [101: 股票与其他投资](101.md)
-* [102: The Magic of Compounding](102.md)
-* [103: Investing for the Long Run](103.md)
-* [104: What Matters and What Doesn't](104.md)
-* [105: The Purpose of a Company](105.md)
-* [106: Gathering Relevant Information](106.md)
-* [107: Introduction to Financial Statements](107.md)
-* [108: Learn the Lingo--Basic Ratios](108.md)
+* [102: 复利的魔力](102.md)
+* [103: 长期投资](103.md)
+* [104: 什么重要，什么不重要](104.md)
+* [105: 公司的宗旨](105.md)
+* [106: 收集相关的信息](106.md)
+* [107: 介绍财务报表](107.md)
+* [108: 学习术语——基本比率](108.md)
