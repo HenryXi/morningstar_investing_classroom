@@ -1,8 +1,5 @@
 {
   "links" : {
-    "sidebar" : {
-      "Home" : "http://zhangjikai.com"
-    }
+    "home":false
   }
-
 }
