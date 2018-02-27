@@ -1,6 +1,6 @@
 # Summary
 * [课程介绍](README.md)
-* [课程大纲]()
+* [课程大纲](course.md)
 * [股票100](stocks/README.md)
   * [101: 股票与其他投资](stocks/101.md)
   * [102: The Magic of Compounding](stocks/102.md)
