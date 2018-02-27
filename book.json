@@ -1,5 +1,9 @@
 {
   "links" : {
-    "sidebar": false
+    "sidebar": false,
+    "home": null,
+    "about": false,
+    "issues": false,
+    "contribute": false
   }
 }
