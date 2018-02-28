@@ -7,7 +7,7 @@
   "pluginsConfig": {
     "ad": {
       "contentTop": "<div class='pull-right'>Created by <a href='http://www.henryxi.com'>henryxi</a></div>",
-      "contentBottom": "%3cscript+async+src%3d%22%2f%2fpagead2.googlesyndication.com%2fpagead%2fjs%2fadsbygoogle.js%22%3e%3c%2fscript%3e+%3c!--+investing+--%3e+%3cins+class%3d%22adsbygoogle%22+style%3d%22display%3ablock%22+data-ad-client%3d%22ca-pub-4950190930837228%22+data-ad-slot%3d%229012646281%22+data-ad-format%3d%22auto%22%3e%3c%2fins%3e+%3cscript%3e+(adsbygoogle+%3d+window.adsbygoogle+%7c%7c+%5b%5d).push(%7b%7d)%3b+%3c%2fscript%3e"
+      "contentBottom": "%3cscript+async+src%3d%22%2f%2fpagead2.googlesyndication.com%2fpagead%2fjs%2fadsbygoogle.js%22%3e%3c%2fscript%3e%3c!--+investing+--%3e%3cins+class%3d%22adsbygoogle%22+style%3d%22display%3ablock%22+data-ad-client%3d%22ca-pub-4950190930837228%22+data-ad-slot%3d%229012646281%22+data-ad-format%3d%22auto%22%3e%3c%2fins%3e%3cscript%3e(adsbygoogle+%3d+window.adsbygoogle+%7c%7c+%5b%5d).push(%7b%7d)%3b%3c%2fscript%3e"
     },
     "sitemap": {
       "hostname": "http://investing.henryxi.com"
