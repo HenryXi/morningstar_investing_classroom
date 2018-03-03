@@ -34,3 +34,4 @@ buildNumber.properties
 *.tmp
 beans.xml
 ~$*.docx
+*.docx#
