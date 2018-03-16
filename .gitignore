@@ -32,6 +32,7 @@ buildNumber.properties
 *.classpath
 *.db
 *.tmp
+*.swp
 beans.xml
 ~$*.docx
 *.docx#
