@@ -2,7 +2,8 @@
   "links" : false,
   "plugins": [
     "sitemap",
-    "ad"
+    "ad",
+    "disqus"
   ],
   "pluginsConfig": {
     "ad": {
@@ -11,6 +12,9 @@
     },
     "sitemap": {
       "hostname": "http://investing.henryxi.com"
+    },
+    "disqus":{
+        "shortName":"investing-henryxi"
     }
   }
 }
