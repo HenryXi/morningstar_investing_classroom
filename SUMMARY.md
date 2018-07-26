@@ -1,6 +1,6 @@
 # Summary
 
-* [晨星投资课堂](README.md)
+* [晨星(Morningstart)投资课堂](README.md)
 
 * [课程大纲](course.md)
 
