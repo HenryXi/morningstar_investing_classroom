@@ -1,6 +1,6 @@
 # Summary
 
-* [课程介绍](README.md)
+* [晨星投资课堂](README.md)
 
 * [课程大纲](course.md)
 
