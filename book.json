@@ -2,8 +2,7 @@
   "links" : false,
   "plugins": [
     "sitemap",
-    "ad",
-    "disqus"
+    "ad"
   ],
   "pluginsConfig": {
     "ad": {
@@ -12,9 +11,6 @@
     },
     "sitemap": {
       "hostname": "http://investingclassroom.com"
-    },
-    "disqus":{
-        "shortName":"investing-henryxi"
     }
   }
 }
