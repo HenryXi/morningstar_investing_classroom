@@ -7,8 +7,8 @@
   ],
   "pluginsConfig": {
     "ad": {
-      "contentTop": "<div><b>市场短期是投票器，长期是称重器。</b></div>",
-      "contentBottom": "%3Cscript%20async%20src=%22//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%22%3E%3C/script%3E%20%3C!--%20investing%20--%3E%20%3Cins%20class=%22adsbygoogle%22%20style=%22display:block%22%20data-ad-client=%22ca-pub-4950190930837228%22%20data-ad-slot=%229012646281%22%20data-ad-format=%22auto%22%3E%3C/ins%3E%20%3Cscript%3E%20(adsbygoogle%20=%20window.adsbygoogle%20%7C%7C%20%5B%5D).push(%7B%7D);%20%3C/script%3E"
+      "contentTop": "<div><b>市场短期是投票器，长期是称重器</b></div>",
+      "contentBottom": "%3Cscript%20data-ad-client%3D%22ca-pub-4950190930837228%22%20async%20src%3D%22https%3A%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js%22%3E%3C%2Fscript%3E"
     },
     "sitemap": {
       "hostname": "http://investingclassroom.com"
